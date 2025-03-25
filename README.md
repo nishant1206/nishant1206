@@ -153,8 +153,6 @@
 
 ## 🎮 Join the Grand Adventure!
 
-## 🎮 Join the Grand Adventure!
-
 <div align="center" style="margin: 30px auto; padding: 20px; max-width: 650px; background: linear-gradient(135deg, #FF4500, #00FFFF); border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.6);">
   <h2 style="font-size: 30px; font-weight: bold; color: #FFFFFF; text-shadow: 2px 2px 4px #000;">Join the Grand Adventure!</h2>
   <p style="font-size: 20px; color: #FFFFFF; margin-bottom: 25px; text-shadow: 1px 1px 3px #000;">
