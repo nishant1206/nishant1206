@@ -5,11 +5,82 @@
 
 ## 🛡️ Arsenal & Legendary Skills
 
-- **Coding Incantations:** JavaScript, TypeScript, React.js, Node.js, Solidity  
-- **Game Mechanics Mastery:** 2D/3D Game Development (p5.js, Three.js) with dynamic animations & physics  
-- **Tech Enchantments:** Crafting Blockchain DApps, IoT Robotics, and Cybersecurity fortifications  
-- **Artifacts & Tools:** Git, Docker, Kubernetes, and the ancient Linux Command Sorcery  
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60">
+        <br>
+        <strong>JavaScript</strong>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" height="60">
+        <br>
+        <strong>TypeScript</strong>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="60" height="60">
+        <br>
+        <strong>React.js</strong>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60">
+        <br>
+        <strong>Node.js</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="60" height="60">
+        <br>
+        <strong>Solidity</strong>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="60" height="60">
+        <br>
+        <strong>Three.js</strong>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="60" height="60">
+        <br>
+        <strong>Arduino</strong>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60">
+        <br>
+        <strong>Git</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60" height="60">
+        <br>
+        <strong>Docker</strong>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="60" height="60">
+        <br>
+        <strong>Kubernetes</strong>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60">
+        <br>
+        <strong>Python</strong>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" height="60">
+        <br>
+        <strong>Linux</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<div align="center" style="margin-top: 20px;">
+  <p style="font-size: 16px; color: #00FFFF; font-style: italic;">
+    *Behold my enchanted arsenal: each skill is a mystical rune, each tool a legendary artifact fueling my quest for digital glory!*
+  </p>
+</div>
 ## 🌀 Step into the 3D Cyberverse
 
 <div align="center">
