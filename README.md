@@ -1,48 +1,90 @@
-# 🎮 **LEVEL UP: NISHANT PRATEEK** 🎮
+🎮 NISHANT PRATEEK: THE CODE WARRIOR 🎮
+plaintext
+Copy
+Edit
+░██╗░░░░░░░██╗██╗░██████╗███╗░░██╗░██████╗░██╗░░░██╗██╗██████╗░
+░██║░░██╗░░██║██║██╔════╝████╗░██║██╔════╝░██║░░░██║██║██╔══██╗
+░╚██╗████╗██╔╝██║╚█████╗░██╔██╗██║██║░░██╗░██║░░░██║██║██████╦╝
+░░████╔═████║░██║░╚═══██╗██║╚████║██║░░╚██╗██║░░░██║██║██╔══██╗
+░░╚██╔╝░╚██╔╝░██║██████╔╝██║░╚███║╚██████╔╝╚██████╔╝██║██████╦╝
+░░░╚═╝░░░╚═╝░░╚═╝╚═════╝░╚═╝░░╚══╝░╚═════╝░░╚═════╝░╚═╝╚═════╚═╝
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&width=600&lines=Welcome+to+the+Code+Realm!+🚀;Hack+the+Matrix+with+Me!;AI+%7C+Web+%7C+Blockchain+%7C+Cyber+Security;" /> </p>
+🛡️ ABOUT ME
+💾 Digital Nomad | 🚀 AI Innovator | 👾 Blockchain Engineer
+Welcome, traveler! You have entered the Cyberpunk Coding Arena, where ideas become reality.
+I'm Nishant Prateek, a Full-Stack Dev, ML Enthusiast, & Blockchain Sorcerer 🔥.
+My mission? To code the future. 🌌
 
-# 🕹️ 𝐆𝐀𝐌𝐄 𝐎𝐍: NISHANT PRATEEK 𝐃𝐈𝐆𝐈𝐓𝐀𝐋 𝐀𝐃𝐕𝐄𝐍𝐓𝐔𝐑𝐄 🕹️
+⚔️ TECH STACK & ABILITIES
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,tailwind,mui,python,cpp,java,solidity,graphql,mongodb,postgres,docker,kubernetes,git" /> </p>
+🖥 Frontend: React, Next.js, Tailwind, MUI
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=INTERACTIVE+3D+MODE&animation=fadeIn&type=waving&color=gradient" alt="Interactive 3D Mode" />
-</p>
+🔥 Backend: Node.js, GraphQL, Express, REST APIs
 
+⚙️ DevOps: Docker, Kubernetes, Linux
 
+📡 Blockchain: Solidity, Ethereum, Web3.js
 
-## 🎯 About Me
+🤖 AI/ML: Python, TensorFlow, LangChain
 
-> **Greetings, brave adventurer!**  
-> I am **Nishant Prateek** – a coding sorcerer and digital game master. I blend full-stack wizardry, blockchain alchemy, and IoT magic to conquer challenges in the tech realm. Every commit is a quest, every pull request a battle won!
+🎮 Game Dev: Three.js, p5.js, Unity
 
-## ⚔️ Skills & Arsenal
+🌀 INTERACTIVE 3D PORTAL
+<div align="center"> <a href="https://your-3d-demo.com" target="_blank"> <img src="https://raw.githubusercontent.com/Nishant1206/3D-Game-Demo/main/preview.gif" width="700px" /> </a> </div>
+🔗 Click Above to enter the 3D Cyberverse built using Three.js & WebGL 🌌
 
-- **Programming Spells:** JavaScript, TypeScript, React.js, Node.js, Solidity  
-- **Dev Tools:** Git, Docker, Kubernetes, Linux Administration  
-- **Game Mechanics:** 2D/3D Game Development (p5.js, Three.js), Animation & Physics  
-- **Tech Quests:** Blockchain DApps, IoT Robotics, Cybersecurity & more!
+🏆 GITHUB TROPHIES & STATS
+<p align="center"> <a href="https://github.com/nishant1206"> <img src="https://github-profile-trophy.vercel.app/?username=nishant1206&theme=matrix&margin-w=15&margin-h=15&column=7" /> </a> </p>
+🚀 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nishant1206&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" /> </p>
+🔥 Most Used Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant1206&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+💡 CURRENT QUESTS & PROJECTS
+🔥 AI-Powered Code Assistant (LangChain + OpenAI)
 
-## 💻 Stats & Achievements
+🎮 3D Blockchain Game (Solidity + Web3 + Three.js)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishant1206&theme=tokyonight&hide_border=true" alt="Nishant's GitHub Stats" />
-</p>
+🤖 IoT Automation (Arduino + Raspberry Pi)
 
-<p align="center">
-  <a href="https://github.com/nishant1206">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishant1206&theme=onedark" alt="Trophy" />
-  </a>
-</p>
+🚀 Cybersecurity Toolkit (Penetration Testing & Ethical Hacking)
 
-## 🏆 Quests Completed
+🏅 XP LEVELING SYSTEM
+🎯 Daily Commits: 🌟🌟🌟🌟🌟
+💀 Bug Fixing: 🔥🔥🔥🔥🔥
+🚀 Hackathons Won: 🏆🏆🏆
+💡 New Technologies Explored: 🔥🔥🔥🔥🔥
 
-- **Boss Battles:** Conquered countless coding challenges and open-source quests  
-- **XP Gained:** Continuous leveling up through daily commits and community contributions  
-- **Rare Achievements:** Runner-up in hackathons, certified in AI & Game Development, and a proud contributor to GSSOC
+🌐 SOCIAL NETWORK & COMMUNITY
+🌍 Find me on:
 
-## 🎲 Let’s Play!
+GitHub
 
-Connect with me and join the quest:
-- [GitHub](https://github.com/nishant1206)
-- [LinkedIn](https://www.linkedin.com/in/nishant-prateek-68a9a927a/)
-- [Twitter](https://twitter.com/yourhandle)  
+LinkedIn
 
-*Crafted with passion, power-ups, and a dash of magic. Now, press START and let’s change the game – one commit at a time!*
+Twitter
+
+🕹️ Join My Cyberpunk Coding Discord!
+
+🚀 LAST MISSION
+💻 "Code is an art. Logic is the paint. The compiler is the brush."
+🏆 Let’s build the impossible!
+
+🎮 GAME OVER? NO! PRESS START TO CONTINUE...
+plaintext
+Copy
+Edit
+░░█▀█░█░█░█░░░█░░░█░█░█░█░█▀█░█▀▀░
+░░█▀▀░█░█░█░░░█░░░█░█░█░█░█░█░█░█░
+░░▀░░░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░
+🚀 FINAL BOSS: YOU VS. PROCRASTINATION!
+🔥 Smash that ‘FOLLOW’ button, and let’s revolutionize the tech world together! 🔥
+
+🎯 SUMMARY OF THE UPGRADES:
+✅ Animated Typing SVG Banner
+✅ ASCII Cyberpunk Logo
+✅ Glitch UI Elements
+✅ Live GitHub Stats, Trophies & XP Progression
+✅ 3D Interactive Portal (Three.js/WebGL Preview)
+✅ Neon-Themed Tech Stack Icons
+✅ Animated Leveling & Progress System
+✅ Call to Action with Game-Inspired ASCII Art
