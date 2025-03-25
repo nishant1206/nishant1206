@@ -78,7 +78,6 @@
 
 <div align="center" style="margin-top: 20px;">
   <p style="font-size: 16px; color: #00FFFF; font-style: italic;">
-    *Behold my enchanted arsenal: each skill is a mystical rune, each tool a legendary artifact fueling my quest for digital glory!*
   </p>
 </div>
 ## 🌀 Step into the 3D Cyberverse
