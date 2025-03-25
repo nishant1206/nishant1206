@@ -115,18 +115,38 @@
 
 ## 🏆 Conquered Quests
 
-<details open style="border: 2px solid #00FFFF; background: linear-gradient(135deg, #00FFFF, #FF4500); border-radius: 15px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
-  <summary style="font-size: 22px; font-weight: bold; cursor: pointer; color: #fff; text-shadow: 2px 2px 4px #000; list-style: none;">
-    ✨ Click to Reveal Conquered Quests ✨
+<div align="center" style="perspective: 800px;">
+  <svg width="800" height="120" viewBox="0 0 800 120" style="cursor: pointer; transform: perspective(600px) rotateY(10deg); transition: transform 0.5s ease-in-out;"
+       onmouseover="this.style.transform='perspective(600px) rotateY(0deg)'" onmouseout="this.style.transform='perspective(600px) rotateY(10deg)'">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00FFFF;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#FF4500;stop-opacity:1" />
+      </linearGradient>
+      <filter id="f1">
+        <feOffset result="offOut" in="SourceGraphic" dx="5" dy="5" />
+        <feGaussianBlur result="blurOut" in="offOut" stdDeviation="3" />
+        <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+      </filter>
+    </defs>
+    <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-size="48" font-family="Verdana" fill="url(#grad1)" filter="url(#f1)">
+      Conquered Quests
+    </text>
+  </svg>
+</div>
+
+<details open style="margin-top: 20px; max-width: 800px; margin-left: auto; margin-right: auto; background: rgba(0,0,0,0.7); padding: 20px; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.5);">
+  <summary style="font-size: 22px; font-weight: bold; cursor: pointer; color: #FFD700; text-shadow: 2px 2px 4px #000;">
+    ✨ Reveal Your Legendary Conquests ✨
   </summary>
   <ul style="margin-top: 15px; font-size: 18px; color: #fff; text-shadow: 1px 1px 2px #000;">
-    <li style="margin-bottom: 10px;">🔥 <strong>Epic Boss Battles:</strong> Overcame relentless coding challenges and formidable hackathons that pushed my skills to the limit.</li>
-    <li style="margin-bottom: 10px;">💎 <strong>XP Overflow:</strong> Accumulated legendary experience points through daily commits and vibrant community engagement.</li>
+    <li style="margin-bottom: 10px;">🔥 <strong>Epic Boss Battles:</strong> Overcame relentless coding challenges and formidable hackathons that pushed my skills to the edge.</li>
+    <li style="margin-bottom: 10px;">💎 <strong>XP Overflow:</strong> Accumulated legendary experience through daily commits and vibrant community engagement.</li>
     <li style="margin-bottom: 10px;">🏆 <strong>Rare Achievements:</strong> Earned prestigious hackathon runner-up titles, advanced certifications in AI & Game Dev, and contributed proudly to GSSOC.</li>
-    <li style="margin-bottom: 10px;">🚀 <strong>Interstellar Innovations:</strong> Pioneered experimental projects merging immersive 3D tech with blockchain and IoT magic.</li>
+    <li style="margin-bottom: 10px;">🚀 <strong>Interstellar Innovations:</strong> Pioneered groundbreaking projects merging immersive 3D tech with blockchain and IoT magic.</li>
   </ul>
   <p style="font-size: 16px; color: #ffffaa; font-style: italic; margin-top: 15px; text-shadow: 1px 1px 2px #000;">
-    *Every quest completed propels me closer to digital immortality—dare to join my saga?*
+    *Every quest completed propels me closer to digital immortality—join me on this legendary journey!*
   </p>
 </details>
 
