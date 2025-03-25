@@ -115,9 +115,22 @@
 
 ## 🏆 Conquered Quests
 
-- **Epic Boss Battles:** Vanquished relentless coding challenges and formidable hackathons  
-- **XP Overflow:** Earned legendary experience through daily commits and spirited community contributions  
-- **Rare Achievements:** Celebrated hackathon runner-ups, esteemed certifications in AI & Game Dev, and honored as a proud GSSOC contributor
+<div align="center" style="background: linear-gradient(135deg, #00FFFF, #FF4500); padding: 25px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); max-width: 800px; margin: 0 auto;">
+  <ul style="list-style: none; padding: 0; font-size: 18px; color: #fff; text-shadow: 1px 1px 2px #000;">
+    <li style="margin: 10px 0;">
+      🔥 <strong>Epic Boss Battles:</strong> Conquered relentless coding challenges and formidable hackathons that pushed my skills to the edge.
+    </li>
+    <li style="margin: 10px 0;">
+      💎 <strong>XP Overflow:</strong> Earned legendary experience points through daily commits and dynamic community engagements.
+    </li>
+    <li style="margin: 10px 0;">
+      🏆 <strong>Rare Achievements:</strong> Secured prestigious hackathon runner-up titles, advanced certifications in AI & Game Dev, and proudly contributed to GSSOC.
+    </li>
+  </ul>
+  <p style="font-size: 16px; color: #ffffaa; font-style: italic; margin-top: 15px; text-shadow: 1px 1px 2px #000;">
+    *Every quest completed propels me closer to digital immortality!*
+  </p>
+</div>
 
 ## 🎮 Join the Grand Adventure!
 
