@@ -153,21 +153,32 @@
 
 ## 🎮 Join the Grand Adventure!
 
-<div align="center" style="perspective: 1000px; margin: 30px 0;">
-  <details open style="background: linear-gradient(135deg, #FF4500, #00FFFF); padding: 30px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.5); transform: rotateY(10deg); transition: transform 0.5s ease;">
-    <summary style="font-size: 28px; font-weight: bold; color: #FFF; cursor: pointer; list-style: none; text-shadow: 2px 2px 4px #000;">
-      🚀 JOIN THE GRAND ADVENTURE! 🚀
-    </summary>
-    <p style="font-size: 20px; color: #FFF; text-shadow: 1px 1px 3px #000; margin-top: 20px;">
-      Step into the realm of digital legends and forge your legacy with every line of code.
-      Unleash your potential on <strong>GitHub</strong>, connect on <strong>LinkedIn</strong> and <strong>Twitter</strong>, or join our vibrant <strong>Discord</strong> community.
-    </p>
-    <div style="margin-top: 20px;">
-      <a href="https://github.com/nishant1206" target="_blank" style="font-size: 20px; color: #FF4500; background: #FFF; padding: 10px 20px; border-radius: 10px; text-decoration: none; font-weight: bold; box-shadow: 0 5px 10px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
-        🌟 Begin Your Quest!
-      </a>
+## 🎮 Join the Grand Adventure!
+
+<div align="center" style="margin: 30px auto; padding: 20px; max-width: 650px; background: linear-gradient(135deg, #FF4500, #00FFFF); border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.6);">
+  <h2 style="font-size: 30px; font-weight: bold; color: #FFFFFF; text-shadow: 2px 2px 4px #000;">Join the Grand Adventure!</h2>
+  <p style="font-size: 20px; color: #FFFFFF; margin-bottom: 25px; text-shadow: 1px 1px 3px #000;">
+    Embark on an epic journey into the digital realm—where every click is a spark that ignites legend! Connect with fellow code warriors, share innovative quests, and level up your skills as you explore a universe of collaborative projects.
+  </p>
+  <a href="https://discord.gg/yourinvite" target="_blank" style="text-decoration: none;">
+    <div style="display: inline-block; padding: 15px 35px; background: #000; color: #00FFFF; font-size: 22px; font-weight: bold; border-radius: 50px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4); transition: transform 0.3s ease, background 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      JOIN THE ADVENTURE!
     </div>
-  </details>
+  </a>
+  
+  <!-- Animated 3D Game Controller Icon -->
+  <div style="margin-top: 30px;">
+    <svg width="100" height="100" viewBox="0 0 24 24" fill="#00FFFF" style="animation: spin 4s linear infinite;">
+      <path d="M21.707 9.293l-1.414 1.414C20.196 11.293 20 11.614 20 12v2c0 .386.196.707.293.293l1.414-1.414c.39-.39.39-1.023 0-1.414l-1.414-1.414zM5 13c0-.386-.196-.707-.293-.293L3.293 14.121c-.39.39-.39 1.023 0 1.414l1.414 1.414c.097.414.293.093.293-.293v-2zm6-3c-1.657 0-3 1.343-3 3s1.343 3 3 3 3-1.343 3-3-1.343-3-3-3zm0 4a1 1 0 110-2 1 1 0 010 2z"></path>
+      <style>
+        @keyframes spin {
+          from { transform: rotate(0deg); }
+          to { transform: rotate(360deg); }
+        }
+      </style>
+    </svg>
+  </div>
 </div>
+
 
 *Crafted with arcane enchantments, interactive cyber magic, and 3D power-ups that defy gravity. Press START to join the revolution—one commit at a time!*
