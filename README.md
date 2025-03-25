@@ -93,15 +93,16 @@
 
 ## 📊 Live GitHub Stats & Glorious Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishant1206&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; filter: drop-shadow(0 0 8px #8a2be2);">
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishant1206&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 0 15px #0ff; transition: transform 0.3s ease-in-out; transform: scale(1.05);">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant1206&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 0 15px #0ff; transition: transform 0.3s ease-in-out; transform: scale(1.05);">
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/nishant1206">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishant1206&theme=onedark" alt="Trophies" style="border-radius: 10px; filter: drop-shadow(0 0 8px #ff4500);">
+    <img src="https://github-profile-trophy.vercel.app/?username=nishant1206&theme=onedark&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" style="border-radius: 15px; box-shadow: 0 0 15px #ff4500; transition: transform 0.3s ease-in-out; transform: scale(1.05);">
   </a>
-</p>
+</div>
 
 ## 🏆 Conquered Quests
 
