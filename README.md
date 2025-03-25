@@ -93,15 +93,24 @@
 
 ## 📊 Live GitHub Stats & Glorious Achievements
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishant1206&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 0 15px #0ff; transition: transform 0.3s ease-in-out; transform: scale(1.05);">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant1206&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 0 15px #0ff; transition: transform 0.3s ease-in-out; transform: scale(1.05);">
+<div align="center" style="perspective: 1200px;">
+  <!-- 3D-Enhanced GitHub Stats Card -->
+  <div style="display: inline-block; transform: rotateY(10deg); transition: transform 0.5s;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nishant1206&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 0 15px #0ff;">
+  </div>
+  <!-- 3D-Enhanced Top Languages Card -->
+  <div style="display: inline-block; transform: rotateY(-10deg); transition: transform 0.5s; margin-left: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant1206&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 0 15px #0ff;">
+  </div>
 </div>
 
-<div align="center">
-  <a href="https://github.com/nishant1206">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishant1206&theme=onedark&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" style="border-radius: 15px; box-shadow: 0 0 15px #ff4500; transition: transform 0.3s ease-in-out; transform: scale(1.05);">
-  </a>
+<div align="center" style="perspective: 1200px; margin-top: 20px;">
+  <!-- 3D-Enhanced Trophy Collection -->
+  <div style="transform: rotateY(5deg) scale(1.05); transition: transform 0.5s;">
+    <a href="https://github.com/nishant1206">
+      <img src="https://github-profile-trophy.vercel.app/?username=nishant1206&theme=onedark&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" style="border-radius: 15px; box-shadow: 0 0 15px #ff4500;">
+    </a>
+  </div>
 </div>
 
 ## 🏆 Conquered Quests
