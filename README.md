@@ -1,8 +1,11 @@
 # 🎮 **LEVEL UP: NISHANT PRATEEK** 🎮
 
+# 🕹️ 𝐆𝐀𝐌𝐄 𝐎𝐍: NISHANT PRATEEK 𝐃𝐈𝐆𝐈𝐓𝐀𝐋 𝐀𝐃𝐕𝐄𝐍𝐓𝐔𝐑𝐄 🕹️
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=GAMER+MODE+ON&animation=fadeIn&type=default&color=gradient" alt="Gamer Mode On" />
+  <img src="https://capsule-render.vercel.app/api?text=INTERACTIVE+3D+MODE&animation=fadeIn&type=waving&color=gradient" alt="Interactive 3D Mode" />
 </p>
+
 
 
 ## 🎯 About Me
