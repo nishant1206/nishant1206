@@ -85,7 +85,28 @@
 
 <div align="center" style="margin: 40px 0; background: linear-gradient(135deg, #FF416C, #FF4B2B); padding: 30px; border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.5);">
   <a href="https://your-interactive-demo.com" target="_blank" style="text-decoration: none;">
-    <img src="https://via.placeholder.com/800x450.png?text=ENTER+THE+CYBERVERSE" alt="Cyberverse Portal" style="width: 100%; max-width: 800px; border: 5px solid #FFD700; border-radius: 20px; transition: transform 0.3s ease; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <svg width="400" height="400" viewBox="0 0 400 400" style="cursor: pointer;">
+      <defs>
+        <radialGradient id="portalGradient" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stop-color="#FF416C" />
+          <stop offset="100%" stop-color="#FF4B2B" />
+        </radialGradient>
+      </defs>
+      <!-- Outer Rotating Ring -->
+      <circle cx="200" cy="200" r="180" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-dasharray="15,10">
+        <animateTransform attributeName="transform" type="rotate" from="0 200 200" to="360 200 200" dur="12s" repeatCount="indefinite"/>
+      </circle>
+      <!-- Main Portal Background -->
+      <circle cx="200" cy="200" r="150" fill="url(#portalGradient)" />
+      <!-- Inner Rotating Ring -->
+      <circle cx="200" cy="200" r="120" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-dasharray="10,5">
+        <animateTransform attributeName="transform" type="rotate" from="360 200 200" to="0 200 200" dur="8s" repeatCount="indefinite"/>
+      </circle>
+      <!-- Portal Label -->
+      <text x="200" y="215" font-size="32" text-anchor="middle" fill="#FFFFFF" font-family="Verdana" style="text-shadow: 2px 2px 4px #000;">
+        CYBERVERSE
+      </text>
+    </svg>
   </a>
 </div>
 
