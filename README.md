@@ -83,10 +83,45 @@
 
 ## 🌀 Step into the 3D Cyberverse
 
-<div align="center">
-  <a href="https://your-3d-interactive-demo.com" target="_blank">
-    <img src="https://via.placeholder.com/900x450.png?text=ENTER+THE+3D+CYBERVERSE" alt="3D Cyberverse Portal" style="border: 5px double #0ff; border-radius: 15px; filter: drop-shadow(0 0 10px #0ff);">
-  </a>
+div align="center" style="margin: 40px 0; perspective: 1200px;">
+  <!-- 3D Portal Container with Rotating Effect -->
+  <div style="width: 800px; height: 450px; position: relative; transform-style: preserve-3d; animation: rotatePortal 12s infinite linear;">
+    <!-- Portal Background -->
+    <img src="https://via.placeholder.com/800x450.png?text=3D+Cyberverse+Portal" alt="3D Cyberverse Portal" style="width: 100%; height: 100%; border: 4px solid #00FFFF; border-radius: 15px; transform: translateZ(0px); box-shadow: 0 8px 16px rgba(0,0,0,0.5);">
+    
+    <!-- Embedded 3D Cube Element -->
+    <div style="position: absolute; top: 20px; left: 20px; transform: translateZ(100px);">
+      <svg width="150" height="150" viewBox="0 0 200 200">
+        <defs>
+          <linearGradient id="cubeGrad" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#FF8C00;stop-opacity:1"/>
+          </linearGradient>
+        </defs>
+        <g transform="translate(100,100)">
+          <!-- Front Face -->
+          <polygon points="-50,-50 50,-50 50,50 -50,50" fill="url(#cubeGrad)" opacity="0.9"/>
+          <!-- Right Face -->
+          <polygon points="50,-50 70,-30 70,70 50,50" fill="url(#cubeGrad)" opacity="0.8"/>
+          <!-- Top Face -->
+          <polygon points="-50,-50 50,-50 70,-30 -30,-30" fill="url(#cubeGrad)" opacity="0.8"/>
+        </g>
+      </svg>
+    </div>
+  </div>
+</div>
+
+<style>
+@keyframes rotatePortal {
+  from { transform: rotateY(0deg); }
+  to { transform: rotateY(360deg); }
+}
+</style>
+
+<div align="center" style="margin-top: 20px;">
+  <p style="font-size: 20px; color: #00FFFF; font-style: italic; text-shadow: 1px 1px 3px #000;">
+    Step through the portal to immerse yourself in a breathtaking 3D Cyberverse where digital dreams come alive!
+  </p>
 </div>
 
 > **Interactive Experience:** Click the portal above to unlock a mesmerizing Three.js & WebGL-powered demo, where code transforms into a pulsating digital universe—each pixel glowing with cyber magic!
