@@ -83,55 +83,15 @@
 
 ## 🌀 Step into the 3D Cyberverse
 
-<div align="center" style="margin: 40px 0; perspective: 1200px;">
-  <!-- 3D Portal Container -->
-  <div style="position: relative; width: 800px; height: 450px; transform-style: preserve-3d; animation: portalRotate 15s linear infinite;">
-    <!-- Background Portal -->
-    <img src="https://via.placeholder.com/800x450.png?text=3D+Cyberverse+Portal" alt="3D Cyberverse Portal" style="width: 100%; height: 100%; border: 4px double #00FFFF; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.6); transform: translateZ(0px);">
-    
-    <!-- Interactive Floating 3D Cube -->
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateX(30deg) rotateY(30deg) translateZ(100px); transition: transform 0.5s ease;" onmouseover="this.style.transform='translate(-50%, -50%) rotateX(0deg) rotateY(0deg) translateZ(100px)'" onmouseout="this.style.transform='translate(-50%, -50%) rotateX(30deg) rotateY(30deg) translateZ(100px)'">
-      <svg width="150" height="150" viewBox="0 0 200 200">
-        <defs>
-          <linearGradient id="cubeGradEnhanced" x1="0" y1="0" x2="1" y2="1">
-            <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1"/>
-            <stop offset="100%" style="stop-color:#FF4500;stop-opacity:1"/>
-          </linearGradient>
-        </defs>
-        <g transform="translate(100,100)">
-          <!-- Front Face -->
-          <polygon points="-50,-50 50,-50 50,50 -50,50" fill="url(#cubeGradEnhanced)" opacity="0.95"/>
-          <!-- Right Face -->
-          <polygon points="50,-50 70,-30 70,70 50,50" fill="url(#cubeGradEnhanced)" opacity="0.85"/>
-          <!-- Top Face -->
-          <polygon points="-50,-50 50,-50 70,-30 -30,-30" fill="url(#cubeGradEnhanced)" opacity="0.85"/>
-        </g>
-      </svg>
-    </div>
-    
-    <!-- Floating Rotating Icon -->
-    <div style="position: absolute; bottom: 20px; right: 20px; transform: translateZ(50px);">
-      <svg width="80" height="80" viewBox="0 0 24 24" fill="#00FFFF" style="animation: iconSpin 8s linear infinite;">
-        <path d="M21.707 9.293l-1.414 1.414C20.196 11.293 20 11.614 20 12v2c0 .386.196.707.293.293l1.414-1.414c.39-.39.39-1.023 0-1.414l-1.414-1.414zM5 13c0-.386-.196-.707-.293-.293L3.293 14.121c-.39.39-.39 1.023 0 1.414l1.414 1.414c.097.414.293.093.293-.293v-2zm6-3c-1.657 0-3 1.343-3 3s1.343 3 3 3 3-1.343 3-3-1.343-3-3-3zm0 4a1 1 0 110-2 1 1 0 010 2z"></path>
-      </svg>
-    </div>
-  </div>
+<div align="center" style="margin: 40px 0; background: linear-gradient(135deg, #FF416C, #FF4B2B); padding: 30px; border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.5);">
+  <a href="https://your-interactive-demo.com" target="_blank" style="text-decoration: none;">
+    <img src="https://via.placeholder.com/800x450.png?text=ENTER+THE+CYBERVERSE" alt="Cyberverse Portal" style="width: 100%; max-width: 800px; border: 5px solid #FFD700; border-radius: 20px; transition: transform 0.3s ease; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
 </div>
 
-<style>
-@keyframes portalRotate {
-  from { transform: rotateY(0deg); }
-  to { transform: rotateY(360deg); }
-}
-@keyframes iconSpin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-</style>
-
 <div align="center" style="margin-top: 20px;">
-  <p style="font-size: 20px; color: #00FFFF; font-style: italic; text-shadow: 1px 1px 3px #000;">
-    Immerse yourself in the 3D Cyberverse—where every pixel pulses with interactive magic and digital dreams come alive!
+  <p style="font-size: 20px; color: #FFF; font-style: italic; text-shadow: 1px 1px 3px rgba(0,0,0,0.7);">
+    Step through the portal and immerse yourself in a world of vivid gradients, pulsating neon energy, and limitless digital dreams. Your adventure begins now!
   </p>
 </div>
 
