@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Development+Engineer;Full-Stack+Web+%2B+AI+Architecture;Competitive+Programmer;Building+Scalable+Backend+Systems&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=20" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#) <!-- Add your LinkedIn URL here -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-prateek/) <!-- Add your LinkedIn URL here -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nishantp1206)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishant1206)
 [![Portfolio](https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=globe&logoColor=white)](#) <!-- Add your Portfolio URL here -->
